@@ -53,8 +53,3 @@ This project explores global energy consumption patterns using a comprehensive d
    ```
 3. Open the `.ipynb` notebook in Jupyter or VS Code and run all cells.
 
----
-
-## 📄 License
-
-This project is for educational and non-commercial use. Dataset © Our World in Data.
